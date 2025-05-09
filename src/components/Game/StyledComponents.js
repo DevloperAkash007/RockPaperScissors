@@ -42,7 +42,7 @@ export const ScoreCard = styled.div`
   flex-direction: column;
   align-items:center;  
   @media screen and (max-width: 767px){
-    padding; 5px 10px;
+    padding: 5px 10px;
   };
 `
 export const Score = styled.p`
